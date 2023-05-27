@@ -6,4 +6,5 @@
  *
  */
 module ProyectoParqueadero {
+	requires java.desktop;
 }
